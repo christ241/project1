@@ -1,2 +1,2 @@
 print("hello world!")
-pritn("status!")
+print("status!")
